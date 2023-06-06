@@ -1,2 +1,2 @@
 # Vizards
-A simple neural network for a simple minded fellow
+A simple neural network from a simple minded fellow
