@@ -1,2 +1,2 @@
 # Vizards
-A simple neural network from a simple minded fellow
+A simple emotion recognition neural network and it's quantisation code.
